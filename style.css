@@ -50,7 +50,7 @@ a {
 
 .about-section {
     display: flex;
-    padding: 40px;
+    padding: 40px 40px 0px 40px;
     background-image: url(images/shapes/7.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -59,4 +59,85 @@ a {
 .about-section p {
     padding-right: 80px;
     padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.my-recipies {
+    padding: 0px 50px;
+}
+
+.my-recipies p {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.my-recipies h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.recipie-flex {
+    display: flex;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.recipie-flex p {
+    padding: 1px;
+
+}
+
+.recipie-image {
+    width: 80%;
+    padding-left: 50px;
+
+}
+
+.flex-container {
+    box-shadow: 8px 8px 20px gray;
+    width: 50%;
+    padding: 40px 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.last {
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 5px 5px 15px gray;
+    margin: 30px 110px;
+    border-radius: 20px;
+}
+
+.last-content {
+    padding: 10px 50px;
+}
+
+.last-flex {
+    width: 33%;
+    text-align: center;
+}
+
+.final h2 {
+    color: white;
+    font-size: 31px;
+}
+
+.final p {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.final {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 20px 0px;
 }
