@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto Slab',
+        serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: #FE5A34;
+}
+
+.hero-section {
+    display: flex;
+    padding: 40px;
+}
+
+.hero-section p {
+    margin-bottom: 20px;
+    padding-right: 80px;
+
+}
+
+.half-width {
+    width: 50%;
+    padding: 10px;
+}
+
+.coloumn-one {
+    padding-top: 80px;
+}
+
+a {
+    background-color: #FE5A34;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.hero-image {
+    width: 80%;
+}
+
+.about-image {
+    width: 50%;
+}
+
+.about-section {
+    display: flex;
+    padding: 40px;
+    background-image: url(images/shapes/7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.about-section p {
+    padding-right: 80px;
+    padding-bottom: 10px;
+}
