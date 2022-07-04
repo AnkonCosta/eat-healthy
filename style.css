@@ -15,6 +15,7 @@ h1 {
 .hero-section {
     display: flex;
     padding: 40px;
+    margin-left: 10%;
 }
 
 .hero-section p {
